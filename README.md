@@ -1,5 +1,6 @@
 # ellafino.github.io
 
+Hi, connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a44224/) 
 
  ![Otter](https://raw.githubusercontent.com/ellafino/ellafino.github.io/main/OTTERwright4hr_web.webp)
  
