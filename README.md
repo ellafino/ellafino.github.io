@@ -7,4 +7,6 @@ Hi, connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a442
 ## Welcome to my page! 
 My name is Ella Fino and I'm a junior studying journalism at Lehigh University. 
 I created this repository for a project in my data journalism class with Professor Jia. 
+
+
 OK bye.
