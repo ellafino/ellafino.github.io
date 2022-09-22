@@ -13,4 +13,4 @@ Here is an undergraduate residence infographic I created using Canva. As you can
 ![Undergraduate](https://github.com/ellafino/ellafino.github.io/blob/main/Undergraduate.png?raw=true)
 
 
-OK bye.
+OK bye!
