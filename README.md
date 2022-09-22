@@ -2,7 +2,7 @@
 
 Hi, connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a44224/) 
 
- ![Otter](https://raw.githubusercontent.com/ellafino/ellafino.github.io/main/OTTERwright4hr_web.webp)
+
  <img src="https://raw.githubusercontent.com/ellafino/ellafino.github.io/main/OTTERwright4hr_web.webp" alt="Otter" width="400"/>
  
 ## Welcome to my page! 
