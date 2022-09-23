@@ -9,7 +9,7 @@ Hi, connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a442
 My name is Ella Fino and I'm a junior studying journalism at Lehigh University. 
 I created this repository for a project in my data journalism class with Professor Jia. 
 
-## College ethnicity statistics (2016)
+## Race and Ethnicity in Higher Education (2016)
 
 I created this infographic using Canva. I decided to focus on racial demographics of collegiate enrollment. I found this data from a status report, [Race and Ethnicity in Higher Education](https://1xfsu31b52d33idlp13twtos-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Race-and-Ethnicity-in-Higher-Education.pdf) written by Lorelle L. Espinosa, Jonathan M. Turk, Morgan Taylor, and Hollie M. Chessman. I found this data to be extremely interesting, as it gives insight into the breakdown of collegiate racial demographics in 2016. The data shows that of all ethnicities, the Asian students have the highest rates of pursuing higher education. 
 
