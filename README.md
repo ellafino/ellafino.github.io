@@ -1,8 +1,5 @@
 # ellafino.github.io
 
-Hi, connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a44224/) 
-
-
  <img src="https://raw.githubusercontent.com/ellafino/ellafino.github.io/main/OTTERwright4hr_web.webp" alt="Otter" width="400"/>
  
 ## Welcome to my page! 
@@ -27,5 +24,7 @@ Here is an undergraduate residence infographic I created using Canva. As you can
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1am0PP0O2fQnLUpUZal07Fov3rUnGkRkfZEPq3sVvRkA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+
+Connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a44224/) 
 
 OK bye!
