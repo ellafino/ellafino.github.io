@@ -27,6 +27,8 @@ Here is an undergraduate residence infographic I created using Canva. As you can
 
 ## The History of Prohibition in the United States
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dmguzuuvgh8Ul5Mkx4YzGpPPmhsZEmvWoeobGlxI_K8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a44224/) 
 
 OK bye!
