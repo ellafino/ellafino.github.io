@@ -32,7 +32,7 @@ Here is an undergraduate residence infographic I created using Canva. As you can
 
 ## Distribution of Google employees by ethnicity, 2014-2021
 
-![file:///Users/ellafino/Downloads/Distribution_of_Google_employees_in_the_US_by_ethnicity,_2014-2021_White_Asian_Black_Latinx_Native_American_chartbuilder.svg](username.github.com/repository/img/imagename.jpg)
+![![image](https://user-images.githubusercontent.com/113618755/195230102-041cbfdf-2834-40a1-9ee5-f475286d8f36.png)](username.github.com/repository/img/imagename.jpg)
 
 
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a44224/) 
