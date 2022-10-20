@@ -35,6 +35,8 @@ Here is an undergraduate residence infographic I created using Canva. As you can
 ![(https://user-images.githubusercontent.com/113618755/195230300-1dede11a-9ee4-469d-b3fc-d207ffa3b890.png)
 ](ellafino.github.com/repository/img/bargraph.jpg)
 
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=125GjV3nOub9W-tnoV6Jj4OoseiD2NNQ&ehbc=2E312F" width="640" height="480"></iframe>
+
 
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a44224/) 
 
