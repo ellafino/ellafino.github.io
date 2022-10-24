@@ -35,9 +35,11 @@ Here is an undergraduate residence infographic I created using Canva. As you can
 ![(https://user-images.githubusercontent.com/113618755/195230300-1dede11a-9ee4-469d-b3fc-d207ffa3b890.png)
 ](ellafino.github.com/repository/img/bargraph.jpg)
 
+## Top 20 biking cities 2019
+
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=125GjV3nOub9W-tnoV6Jj4OoseiD2NNQ&ehbc=2E312F" width="640" height="480"></iframe>
 
-## Most populated cities 2022
+## Top 20 populated cities 2022
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1t7TTDYzLoK25bVmsQmfkpmWaoNRaRrY&ehbc=2E312F" width="640" height="480"></iframe>
 
