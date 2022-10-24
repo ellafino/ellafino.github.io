@@ -37,6 +37,9 @@ Here is an undergraduate residence infographic I created using Canva. As you can
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=125GjV3nOub9W-tnoV6Jj4OoseiD2NNQ&ehbc=2E312F" width="640" height="480"></iframe>
 
+## Most populated cities 2022
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1t7TTDYzLoK25bVmsQmfkpmWaoNRaRrY&ehbc=2E312F" width="640" height="480"></iframe>
 
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a44224/) 
 
