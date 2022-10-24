@@ -41,6 +41,8 @@ Here is an undergraduate residence infographic I created using Canva. As you can
 
 ## Top 20 populated cities 2022
 
+I decided to explore population density and the most populated cities around the world in the year 2022. I used Google My Maps to create this customized map. All data from Worldpopulationreview.com.
+
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1t7TTDYzLoK25bVmsQmfkpmWaoNRaRrY&ehbc=2E312F" width="640" height="480"></iframe>
 
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/ella-fino-0b4a44224/) 
